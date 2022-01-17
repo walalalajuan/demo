@@ -7,6 +7,8 @@
 [swagger-ui](http://localhost:9100/swagger-ui.html)  
 [h2-console](http://localhost:9100/h2-console/)  
   
+角色: superuser/superuser, manager/manager, operater/operater
+  
 建議用Postman或swagger-ui操作(請用無痕)  
   
 # 說明  
